@@ -1,0 +1,105 @@
+{
+  "Items": {
+    "BestSellers": [
+      {
+        "id": 1,
+        "title": "Chicken Adobo",
+        "description": "Lorem ipsum",
+        "image": "../src/assets/Foods/Adobo.png",
+        "price": 140
+      },
+      {
+        "id": 2,
+        "title": "Kaldereta",
+        "description": "Lorem ipsum",
+        "image": "../src/assets/Foods/Kaldereta.png",
+        "price": 150
+      },
+      {
+        "id": 3,
+        "title": "Kare-Kare",
+        "description": "Lorem ipsum",
+        "image": "../src/assets/Foods/Kare-kare.png",
+        "price": 160
+      },
+      {
+        "id": 4,
+        "title": "Menudo",
+        "description": "Lorem ipsum",
+        "image": "../src/assets/Foods/Menudo.png",
+        "price": 145
+      },
+      {
+        "id": 5,
+        "title": "Pinakbet",
+        "description": "Lorem ipsum",
+        "image": "../src/assets/Foods/Pinakbet.png",
+        "price": 130
+      }
+    ],
+
+    "MainDish": [
+      {
+        "id": 1,
+        "title": "Sizzling Tofu",
+        "description": "Lorem ipsum",
+        "image": "../src/assets/Foods/Tofu.png",
+        "price": 110
+      },
+
+      {
+        "id": 2,
+        "title": "Sizzling Sisig",
+        "description": "Lorem ipsum",
+        "image": "../src/assets/Foods/Sisig.png",
+        "price": 100
+      },
+      {
+        "id": 3,
+        "title": "Sinigang",
+        "description": "Lorem ipsum",
+        "image": "../src/assets/Foods/Sinigang.png",
+        "price": 110
+      },
+      {
+        "id": 4,
+        "title": "Bbq",
+        "description": "Lorem ipsum",
+        "image": "../src/assets/Foods/BBQ.png",
+        "price": 30
+      }
+    ],
+
+    "Dessert": [
+      {
+        "id": 1,
+        "title": "Leche Flan",
+        "description": "Lorem ipsum",
+        "image": "../src/assets/Foods/LecheFlan.png",
+        "price": 50
+      },
+      {
+        "id": 2,
+        "title": "Halo-Halo",
+        "description": "Lorem ipsum",
+        "image": "../src/assets/Foods/Halo-Halo.png",
+        "price": 110
+      },
+
+      {
+        "id": 3,
+        "title": "BukoPandan",
+        "description": "Lorem ipsum",
+        "image": "../src/assets/Foods/BukoPandan.png",
+        "price": 80
+      },
+      {
+        "id": 4,
+        "title": "Bilo-Bilo",
+        "description": "Lorem ipsum",
+        "image": "../src/assets/Foods/Bilo-Bilo.png",
+        "price": 30
+      }
+    ]
+  }
+}

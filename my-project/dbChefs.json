@@ -1,0 +1,142 @@
+{
+  "Chefs": [
+    {
+      "id": 1,
+      "name": "Logro",
+      "description": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divid with additional clickthroughs from Nanotechnology immersion along the information highway will close the loop on focusing solely the bottom line.",
+      "image": "../src/components/AboutUs/Chefs/Logro.png",
+      "position": "Master Chef",
+      "video": "../src/assets/components/AboutUs/Videos/Jp.mp4"
+    },
+    {
+      "id": 2,
+      "name": "Jp",
+      "description": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divid with additional clickthroughs from Nanotechnology immersion along the information highway will close the loop on focusing solely the bottom line.",
+      "image": "../src/components/AboutUs/Chefs/Jp.png",
+      "position": "Master Chef",
+      "video": "../src/assets/components/AboutUs/Videos/Jp.mp4"
+    },
+    {
+      "id": 3,
+      "name": "Judy",
+      "description": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divid with additional clickthroughs from Nanotechnology immersion along the information highway will close the loop on focusing solely the bottom line.",
+      "image": "../src/components/AboutUs/Chefs/Judy.png",
+      "position": "Master Chef",
+      "video": "../src/assets/components/AboutUs/Videos/Jp.mp4"
+    },
+    {
+      "id": 4,
+      "name": "Gene",
+      "description": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divid with additional clickthroughs from Nanotechnology immersion along the information highway will close the loop on focusing solely the bottom line.",
+      "image": "../src/components/AboutUs/Chefs/Gene.png",
+      "position": "Master Chef",
+      "video": "../src/assets/components/AboutUs/Videos/Jp.mp4"
+    }
+  ],
+  "Foods": [
+    {
+      "id": 1,
+      "name": "Adobo",
+      "title": "Elegant Dessert: 10 Tips How to Make It at Home",
+      "description": "Adobo refers to a method of marinating and stewing for any cut of meat or fish in a briny mixture of vinegar, soy sauce, and spices.",
+      "image": "../src/assets/FoodsContext/ChickenAdobo.jpg",
+      "price": 140
+    },
+    {
+      "id": 2,
+      "name": "Kaldereta",
+      "title": "Elegant Dessert: 10 Tips How to Make It at Home",
+      "description": "Caldereta is a Filipino meat stew influenced by Spanish flavours. Its name comes from the Spanish word caldera, meaning cauldron",
+      "image": "../src/assets/FoodsContext/Kaldereta.jpg",
+      "price": 150
+    },
+    {
+      "id": 3,
+      "name": "KareKare",
+      "title": "Elegant Dessert: 10 Tips How to Make It at Home",
+      "description": "Kare-kare is a Philippine stew kare derives from curry that features a thick savory peanut sauce.",
+      "image": "../src/assets/FoodsContext/KareKare.jpg",
+      "price": 160
+    },
+    {
+      "id": 4,
+      "name": "Menudo",
+      "title": "Elegant Dessert: 10 Tips How to Make It at Home",
+      "description": "is a traditional stew from the Philippines made with pork and sliced liver in tomato sauce with carrots and potatoes.",
+      "image": "../src/assets/FoodsContext/Menudo.jpg",
+      "price": 145
+    },
+    {
+      "id": 5,
+      "name": "Pinakbet",
+      "title": "Elegant Dessert: 10 Tips How to Make It at Home",
+      "description": "Pinakbet is made with a variety of mixed vegetables flavored with bagoóng.",
+      "image": "../src/assets/FoodsContext/Pinakbet.jpg",
+      "price": 130
+    },
+    {
+      "id": 6,
+      "name": "Sizzling Tofu",
+      "title": "Elegant Dessert: 10 Tips How to Make It at Home",
+      "description": "main ingredient of the dish! Onions and garlic - for aromatics. Red and green bell peppers - adds texture and color to the dish.",
+      "image": "../src/assets/FoodsContext/Tofu.jpg",
+      "price": 110
+    },
+    {
+      "id": 7,
+      "name": "Sisig",
+      "title": "Elegant Dessert: 10 Tips How to Make It at Home",
+      "description": "A traditional Filipino dish, sisig transforms a braised pig's head into a plate of pork hash with all kinds of different textures",
+      "image": "../src/assets/FoodsContext/Sisig.jpg",
+      "price": 100
+    },
+    {
+      "id": 8,
+      "name": "Sinigang",
+      "title": "Elegant Dessert: 10 Tips How to Make It at Home",
+      "description": "Sinigang is a tamarind-based soup that is known for its sour and savory taste.",
+      "image": "../src/assets/FoodsContext/Sinigang.jpg",
+      "price": 140
+    },
+    {
+      "id": 9,
+      "name": "Bbq",
+      "title": "Elegant Dessert: 10 Tips How to Make It at Home",
+      "description": "barbecue, an outdoor meal, usually a form of social entertainment, at which meats, fish, or fowl, along with vegetables, are roasted over a wood or charcoal fire.",
+      "image": "../src/assets/FoodsContext/Bbq.jpg",
+      "price": 30
+    },
+    {
+      "id": 10,
+      "name": "Leche Flan",
+      "title": "Elegant Dessert: 10 Tips How to Make It at Home",
+      "description": "Leche Flan is a dessert made-up of eggs and milk with a soft caramel on top.",
+      "image": "../src/assets/FoodsContext/LEcheflan.jpg",
+      "price": 50
+    },
+    {
+      "id": 11,
+      "name": "Halo-Halo",
+      "title": "Elegant Dessert: 10 Tips How to Make It at Home",
+      "description": "Halo-halo, also spelled haluhalo, Tagalog for mixed, is a popular cold dessert in the Philippines made up of crushed ice, evaporated milk or coconut milk,",
+      "image": "../src/assets/FoodsContext/Halohalo.jpg",
+      "price": 110
+    },
+    {
+      "id": 12,
+      "name": "Buko Pandan",
+      "title": "Elegant Dessert: 10 Tips How to Make It at Home",
+      "description": "Buko Pandan is a Filipino cold dessert made of jelly cubes, young coconut, and sweetened cream infused with pandan or screwpine flavor.",
+      "image": "../src/assets/FoodsContext/BukoPandan.jpg",
+      "price": 80
+    },
+    {
+      "id": 13,
+      "name": "Bilo-Bilo",
+      "title": "Elegant Dessert: 10 Tips How to Make It at Home",
+      "description": "Bilo-bilo is a Filipino dessert made of small glutinous balls (sweet sticky rice flour rounded up by adding water) in coconut milk and sugar.",
+      "image": "../src/assets/FoodsContext/BiloBilo.jpg",
+      "price": 30
+    }
+  ]
+}
