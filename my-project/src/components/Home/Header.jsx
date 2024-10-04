@@ -22,7 +22,7 @@ const Header = () => {
   };
   return (
     <div className="bg-[#292E36] py-4">
-      <div className="space-y-10">
+      <div className="space-y-10 ">
         <img src={Logo} className="mx-auto" />
         <nav className="border-y-4 border-[#6C6767] py-4 px-10 container mx-auto flex items-center justify-between">
           <div className="hidden md:block">
@@ -67,7 +67,7 @@ const Header = () => {
               />
             )}
             {nav && (
-              <div className="fixed mt-12 left-0 bg-[#292E36] w-full">
+              <div className="fixed mt-12 left-0 bg-[#292E36] w-full z-20">
                 <nav className="py-10">
                   {/* Navbar */}
                   <ul className="flex flex-col items-center text-white gap-5">

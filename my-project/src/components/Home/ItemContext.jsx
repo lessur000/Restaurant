@@ -11,7 +11,7 @@ const ItemProvider = ({ children }) => {
   //fetch items & chefs
   useEffect(() => {
     const fetchChefs = async () => {
-      const chefsResponse = await fetch("http://localhost:3000/Chefs");
+      const chefsResponse = await fetch("http://localhost:3002/Chefs");
       const chefsData = await chefsResponse.json();
       // console.log(itemsdata);
       setChefs(chefsData);
@@ -21,7 +21,7 @@ const ItemProvider = ({ children }) => {
 
   useEffect(() => {
     const fetchFoods = async () => {
-      const foodsResponse = await fetch("http://localhost:3000/Foods");
+      const foodsResponse = await fetch("http://localhost:3002/Foods");
       const foodsData = await foodsResponse.json();
       // console.log(foodsData);
       setFoods(foodsData);
